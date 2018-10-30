@@ -1,0 +1,146 @@
+[22-Jan-2016 20:03:40 Etc/GMT] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +902605456888, is not a mobile number' in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/reevahwz/public_html/TalaApp/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+90 2605456888', '276065 Tala App...')
+#5 {main}
+  thrown in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php on line 297
+[22-Jan-2016 20:03:48 Etc/GMT] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +902605456888, is not a mobile number' in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/reevahwz/public_html/TalaApp/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+90 2605456888', '706902 Tala App...')
+#5 {main}
+  thrown in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php on line 297
+[22-Jan-2016 20:05:15 Etc/GMT] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +902605456888, is not a mobile number' in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/reevahwz/public_html/TalaApp/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+90 2605456888', '985401 Tala App...')
+#5 {main}
+  thrown in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php on line 297
+[22-Jan-2016 20:05:19 Etc/GMT] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +902605456888, is not a mobile number' in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/reevahwz/public_html/TalaApp/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+90 2605456888', '633073 Tala App...')
+#5 {main}
+  thrown in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php on line 297
+[22-Jan-2016 20:44:34 Etc/GMT] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +90791430353, is not a mobile number' in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/reevahwz/public_html/TalaApp/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+90 791430353', '774595 Tala App...')
+#5 {main}
+  thrown in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php on line 297
+[22-Jan-2016 20:44:39 Etc/GMT] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +90791430353, is not a mobile number' in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/reevahwz/public_html/TalaApp/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+90 791430353', '334000 Tala App...')
+#5 {main}
+  thrown in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php on line 297
+[23-Jan-2016 04:14:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +901246871, is not a mobile number' in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/reevahwz/public_html/TalaApp/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+90 1246871', '183089 Tala App...')
+#5 {main}
+  thrown in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php on line 297
+[23-Jan-2016 05:17:45 Etc/GMT] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'To number: +93534402227, is not a mobile number' in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/reevahwz/public_html/TalaApp/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+93534402227', '986364 Tala App...')
+#5 {main}
+  thrown in /home/reevahwz/public_html/TalaApp/api/Twilio/lib/Services/Twilio.php on line 297
+[23-Jan-2016 07:25:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 07:25:20 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 07:30:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 07:30:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 07:46:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 07:46:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 08:19:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 08:19:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 08:32:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 08:32:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 08:37:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 08:37:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 08:44:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 08:44:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 09:25:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 09:25:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 09:33:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 09:33:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 09:34:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 09:34:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 09:41:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 09:41:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 12:08:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 12:08:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 12:09:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 12:09:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 13:14:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 13:14:34 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 17:16:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 17:16:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 18:23:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Jan-2016 18:23:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 12:41:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 12:41:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 12:41:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 12:41:35 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:07:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:07:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:07:55 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The 'To' number +962962799270565 is not a valid phone number.' in /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/lyjo/public_html/tala/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+96296279927056...', '407238 Tala App...')
+#5 {main}
+  thrown in /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio.php on line 297
+[24-Jan-2016 13:08:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:08:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:08:01 UTC] PHP Fatal error:  Uncaught exception 'Services_Twilio_RestException' with message 'The 'To' number +962962799270565 is not a valid phone number.' in /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio.php:297
+Stack trace:
+#0 /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio.php(180): Base_Services_Twilio->_processResponse(Array)
+#1 /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio/ListResource.php(92): Base_Services_Twilio->createData('/2010-04-01/Acc...', Array)
+#2 /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio/Rest/Messages.php(24): Services_Twilio_ListResource->_create(Array)
+#3 /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio/Rest/Messages.php(71): Services_Twilio_Rest_Messages->create(Array)
+#4 /home/lyjo/public_html/tala/api/Twilio/send_sms.php(14): Services_Twilio_Rest_Messages->sendMessage('+18316100001', '+96296279927056...', '737963 Tala App...')
+#5 {main}
+  thrown in /home/lyjo/public_html/tala/api/Twilio/lib/Services/Twilio.php on line 297
+[24-Jan-2016 13:08:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:08:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:29:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:29:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:30:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:30:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:30:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 13:30:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 15:34:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 15:34:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 15:35:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 15:35:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 15:49:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 15:49:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 21:02:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Jan-2016 21:02:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: cannot open shared object file: No such file or directory in Unknown on line 0
